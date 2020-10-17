@@ -1,0 +1,28 @@
+.title
+{
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align: center;    
+    width: 210px;
+    color:rgb(171, 235, 243);
+} 
+input[type = "button"]
+{
+    border-radius: 10px;
+    background: rgb(171, 235, 243);
+    color: black;
+    border-color: rgb(171, 235, 243);
+    width: 100%;
+}
+input[type ="text"]
+{
+    border-radius: 10px;
+    text-align: right;
+    background-color: white;
+    border-color:rgb(171, 235, 243);
+    width: 96%;
+}
+.t-border
+{
+    border: solid rgb(171, 235, 243) 3px;
+}
